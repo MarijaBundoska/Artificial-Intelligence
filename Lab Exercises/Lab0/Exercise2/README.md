@@ -1,4 +1,4 @@
-## Task 2 – Minesweeper
+## Exercise 2 – Minesweeper
 
 ### Problem Statement
 
