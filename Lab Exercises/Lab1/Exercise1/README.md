@@ -160,7 +160,39 @@ x_m2,y_m2
 ## Test Cases
 
 
+
+
 ### Test Case 1
+
+**Test:**
+```text
+TC1
+```
+**Input:**
+```text
+0,0
+3,7
+2
+8,3
+3
+2
+3,5
+7,7
+2
+5,2
+6,2
+
+```
+**Expected output:**
+```text
+Testing methods. Good!
+```
+
+
+
+
+
+### Test Case 2
 
 **Test:**
 ```text
@@ -186,7 +218,7 @@ example
 ```
 
 
-### Test Case 2
+### Test Case 3
 
 **Test:**
 ```text
@@ -208,4 +240,139 @@ no solution
 **Expected output:**
 ```text
 No Solution!
+```'
+
+
+
+
+### Test Case 4
+
+**Test:**
+```text
+skip parts
+```
+**Input:**
+```text
+0,0
+0,4
+2
+0,5
+2
+2
+0,2
+0,3
+1
+0,1
+```
+**Expected output:**
+```text
+['Up', 'Up', 'Up', 'Up', 'Repair', 'Repair', 'Down', 'Down', 'Down', 'Up', 'Up', 'Up', 'Up', 'Repair', 'Repair']
+```
+
+
+
+
+### Test Case 5
+
+**Test:**
+```text
+small example
+```
+**Input:**
+```text
+9,9
+8,9
+2
+5,9
+1
+2
+9,8
+8,8
+2
+7,9
+6,9
+```
+**Expected output:**
+```text
+['Down', 'Left', 'Up', 'Repair', 'Repair', 'Left', 'Left', 'Left', 'Repair']
+```
+
+
+
+
+
+### Test Case 6
+
+**Test:**
+```text
+start from M1
+```
+**Input:**
+```text
+6,5
+6,5
+2
+8,8
+3
+1
+5,4
+1
+8,7
+```
+**Expected output:**
+```text
+['Down', 'Left', 'Right', 'Up', 'Repair', 'Repair', 'Up', 'Right', 'Right', 'Up', 'Up', 'Repair', 'Repair', 'Repair']
+```
+
+
+
+
+
+### Test Case 7
+
+**Test:**
+```text
+repair one step
+```
+**Input:**
+```text
+0,0
+6,5
+1
+9,9
+1
+1
+1,0
+1
+8,8
+```
+**Expected output:**
+```text
+['Right', 'Right', 'Right', 'Up', 'Right', 'Right', 'Right', 'Up', 'Up', 'Up', 'Up', 'Repair', 'Up', 'Right', 'Right', 'Up', 'Up', 'Right', 'Up', 'Repair']
+```
+
+
+
+
+### Test Case 8
+
+**Test:**
+```text
+repair steps
+```
+**Input:**
+```text
+7,0
+9,0
+3
+8,1
+4
+1
+8,0
+1
+9,1
+```
+**Expected output:**
+```text
+['Right', 'Right', 'Repair', 'Repair', 'Repair', 'Up', 'Left', 'Repair', 'Repair', 'Repair', 'Repair']
 ```
