@@ -1,4 +1,4 @@
-## Task 5 – Pushing a Ball to the Goal
+## Exercise 2 – Pushing a Ball to the Goal
 
 ### Problem Statement
 
@@ -49,7 +49,7 @@ Additionally, you need to implement the following functions:
 Use **uninformed search** to find a solution with the fewest possible steps. 
 
 
-## Задача 5 – Туркање топка до голот
+## Задача 2 – Туркање топка до голот
 
 ### Опис на задачата
 
