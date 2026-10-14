@@ -297,7 +297,6 @@ ts5
 6,6
 ```
 **Expected output:**
-
-['Up', 'Right', 'Right', 'Up', 'Up', 'Up', 'Up', 'Right', 'Right', 'Right']
 ```text
+['Up', 'Right', 'Right', 'Up', 'Up', 'Up', 'Up', 'Right', 'Right', 'Right']
 ```
