@@ -182,21 +182,7 @@ No Solution!
 
 
 
-
 ### Test Case 5
-
-**Input:**
-```text
-```
-**Expected output:**
-
-```text
-```
-
-
-
-
-### Test Case 6
 
 **Input:**
 ```text
@@ -216,7 +202,7 @@ No Solution!
 
 
 
-### Test Case 7
+### Test Case 6
 
 **Input:**
 ```text
@@ -235,7 +221,7 @@ No Solution!
 
 
 
-### Test Case 8
+### Test Case 7
 
 **Input:**
 ```text
@@ -265,7 +251,7 @@ No Solution!
 
 
 
-### Test Case 9
+### Test Case 8
 
 **Input:**
 ```text
@@ -292,7 +278,7 @@ No Solution!
 
 
 
-### Test Case 10
+### Test Case 9
 
 **Input:**
 ```text
@@ -318,7 +304,7 @@ No Solution!
 
 
 
-### Test Case 11
+### Test Case 10
 
 **Input:**
 ```text
