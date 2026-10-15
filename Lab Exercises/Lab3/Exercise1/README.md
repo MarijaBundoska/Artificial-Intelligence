@@ -8,7 +8,7 @@ A board of size `N x N` is given, where each cell of the board belongs to a uniq
 
 A board of size `8 x 8`, where `N = 8`.
 
-[Table with regions](https://courses.finki.ukim.mk/pluginfile.php/303555/question/questiontext/856806/1/1089522/star_struck_before%20%281%29.png)
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/61d89139-2e81-4418-ab8c-89eb83891b46" />
 
 Your task is to place `N` stars on the board, where each star is placed in a single cell of the board, such that:
 
